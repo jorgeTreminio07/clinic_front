@@ -1,0 +1,9 @@
+/* Clase para hacer que los elementos ocupen el mismo espacio */
+  
+  /* Clase para el gráfico de líneas */
+  .line-chart {
+    width: 1000px; /* Tamaño ajustado */
+    height: 200px; /* Tamaño ajustado */
+  }
+  
+  
