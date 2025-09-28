@@ -1,4 +1,4 @@
-# Clinical record registration and control system - Frontend (React)
+# Clinical record registration and control system - Frontend (vite + React + TypeScript)
 
 Frontend application for a **Clinical record registration and control system** for general medical care, built with **React 18** and modern UI libraries.
 
@@ -16,6 +16,9 @@ Frontend application for a **Clinical record registration and control system** f
 | Technology                | Badge                                                                                                                                    |
 |---------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | **React 18**              | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)                                     |
+| **Vite**                  | ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)                                        |
+| **TypeScript**            | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)                         |
+| **Tailwind CSS**          | ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)                 |
 | **Material UI (MUI)**     | ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)                                            |
 | **NextUI**                | ![NextUI](https://img.shields.io/badge/NextUI-000000?style=for-the-badge&logo=vercel&logoColor=white)                                   |
 | **TanStack React Query**  | ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)                   |
