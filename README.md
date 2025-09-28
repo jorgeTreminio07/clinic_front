@@ -26,8 +26,7 @@ Frontend application for a **Clinical record registration and control system** f
 | **MUI X Data Grid**       | ![MUI X](https://img.shields.io/badge/MUI%20X%20DataGrid-007FFF?style=for-the-badge&logo=mui&logoColor=white)                           |
 | **MUI X Charts**          | ![MUI Charts](https://img.shields.io/badge/MUI%20Charts-FF9800?style=for-the-badge&logo=chartdotjs&logoColor=white)                     |
 | **PDF & Excel Export**    | ![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white) ![xlsx](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Barcode Generator**     | ![JsBarcode](https://img.shields.io/badge/JsBarcode-333?style=for-the-badge&logo=barcode&logoColor=white)                               |
-| **Clean Architecture**    | ![Clean](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=archlinux&logoColor=white)                   |
+| **Clean Architecture**    | ![Clean](https://img.shields.io/badge/Clean%20Architecture-4CAF50?style=for-the-badge&logo=lock&logoColor=white)                   |
 
 ---
 
